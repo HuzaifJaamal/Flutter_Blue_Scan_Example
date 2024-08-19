@@ -1,4 +1,4 @@
-/* import 'package:flutter_blue/flutter_blue.dart';
+import 'package:flutter_blue/flutter_blue.dart';
 
 class BluetoothManager {
   final FlutterBlue flutterBlue = FlutterBlue.instance;
@@ -37,4 +37,3 @@ class BluetoothManager {
     flutterBlue.stopScan();
   }
 }
- */
